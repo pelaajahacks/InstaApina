@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+    color: blue;
+}
+
+.subtitle {
+    text-align: center;
+    padding-top: 100px;
+    color: beige;
+}
+
+.lmao {
+    background-color: #333333;
+    margin: 0 auto;
+}
+
+.container {
+    margin: 0% auto;
+}
+
+.image {
+    margin: 0% auto;
+}
